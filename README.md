@@ -1,7 +1,8 @@
-# sc-ero — sklep internetowy
+# RomanticWave — sklep internetowy
 
-**sc-ero** to sklep internetowy działający na platformie Allegro. Zajmujemy się
-sprzedażą detaliczną oraz bieżącą obsługą zamówień naszych klientów.
+**RomanticWave** to sklep internetowy prowadzony przez firmę **MIB connect**. Działamy
+na platformie Allegro — zajmujemy się sprzedażą detaliczną oraz bieżącą obsługą zamówień
+naszych klientów.
 
 ## Czym się zajmujemy
 
@@ -12,11 +13,12 @@ sprzedażą detaliczną oraz bieżącą obsługą zamówień naszych klientów.
 Działamy zgodnie z zasadami platformy Allegro i dbamy o sprawną, terminową obsługę
 każdego zamówienia.
 
-## Dane sklepu
+## Dane
 
 | | |
 | --- | --- |
-| **Nazwa** | sc-ero |
+| **Sklep** | RomanticWave |
+| **Firma** | MIB connect |
 | **Rodzaj działalności** | Sklep internetowy (e-commerce) |
 | **Platforma sprzedaży** | Allegro |
 | **Kontakt** | miberoshop@gmail.com |
